@@ -1,0 +1,12 @@
+[32mINFO    [0m utils.checklogger:checklogger.py:20 Авторизация в системе БРС - 
+[32mINFO    [0m utils.checklogger:checklogger.py:20 opening https://grade.sfedu.ru/ page - 
+[32mINFO    [0m utils.checklogger:checklogger.py:20 check page loading complete - sfeduAuthorisationForm
+[32mINFO    [0m utils.checklogger:checklogger.py:20 Отправляем логин в поле ввода - 
+[32mINFO    [0m utils.checklogger:checklogger.py:20 Нажимаем на кнопку авторизации - 
+[32mINFO    [0m utils.checklogger:checklogger.py:20 check page loading complete - microsoftAuthorisationForm
+[32mINFO    [0m utils.checklogger:checklogger.py:20 Отправляем пароль в поле ввода - 
+[32mINFO    [0m utils.checklogger:checklogger.py:20 Нажимаем на кнопку авторизации - 
+[32mINFO    [0m utils.checklogger:checklogger.py:20 Нажимаем на кнопку подтверждения авторизации - 
+[32mINFO    [0m utils.checklogger:checklogger.py:20 Проверка на наличие дисциплин на странице БРС - 
+[32mINFO    [0m utils.checklogger:checklogger.py:20 Проверка наличия кнопки 'Дисциплины' на странице БРС - 
+[32mINFO    [0m utils.checklogger:checklogger.py:20 Проверка наличия кнопки 'История событий' на странице БРС -

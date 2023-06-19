@@ -1,0 +1,2 @@
+CHROME_BROWSER = 'chrome'
+FIREFOX_BROWSER = 'firefox'
